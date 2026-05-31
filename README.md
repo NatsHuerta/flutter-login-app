@@ -80,4 +80,11 @@ Este comportamiento se mantiene en todas las categorías.
 
 ## Estructura del proyecto
 
-El archivo principal se encuentra en:  lib/main.dart
+El proyecto está organizado principalmente en la carpeta `lib/`, donde se encuentran los archivos principales de la aplicación.
+
+Los archivos más importantes son:
+
+- `lib/main.dart` → Archivo principal de la aplicación, donde se inicia la ejecución del sistema.
+- `lib/catalogo.dart` → Pantalla del catálogo de productos.
+
+Estos archivos contienen la lógica principal del sistema de login, navegación y visualización del catálogo.
